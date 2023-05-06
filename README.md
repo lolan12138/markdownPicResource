@@ -1,0 +1,2 @@
+# markdownPicResource
+Markdown笔记图床（目前只用VScode进行Markdown编辑），用于云存储笔记中的图片
